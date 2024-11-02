@@ -11,6 +11,12 @@ Python version: Python 3.11.5
 conda create -n "chart_acc_gen" python=3.11.5
 ```
 
+and activate the new environment
+
+``` bash
+conda activate chart_acc_gen
+```
+
 2. Install requiremements
 
 ``` bash
@@ -36,3 +42,5 @@ Example run:
 ``` bash
 ./batch_acc_gen.sh "test_inputs/solar.json" "test_outputs" 5 120 1
 ```
+
+5. Cross your fingers. If it finally runs, prepare your ears for a few seconds of mizery!
