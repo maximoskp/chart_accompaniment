@@ -43,4 +43,6 @@ Example run:
 ./batch_acc_gen.sh "test_inputs/solar.json" "test_outputs" 5 120 1
 ```
 
-5. Cross your fingers. If it finally runs, prepare your ears for a few seconds of mizery!
+The first time it runs, it needs to download some models from huggingface (https://huggingface.co/maximoskp/midi_chart_piano_accompaniment/tree/main) so please be patient...
+
+5. Cross your fingers. If it finally runs, prepare your ears for a few seconds of misery!
